@@ -121,7 +121,7 @@ http://38.7.195.44:8000/play/a0ad
 #EXTINF:-1 tvg-id="ESPN7.cl" tvg-name="ESPN 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN 7 HD
 http://38.7.195.44:8000/play/a014
 
-#EXTINF:-1 tvg-id="ESPNPREMIUM.cl" tvg-name="ESPN Premium Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN Premium HD
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN Premium HD
 http://38.7.195.44:8000/play/a04g
 
 
@@ -182,7 +182,7 @@ http://38.236.184.170:8000/play/a04d/index.m3u8
 
 ==================== DS SPORTS ====================
 
-#EXTINF:-1 tvg-id="DIRECTVSports.cl" tvg-name="DS Sports 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/DirecTV_Sports%2B_2018.png/revision/latest/scale-to-width-down/1000?cb=20200706230244&path-prefix=es" group-title="Deportes",DS Sports 1 HD
+#EXTINF:-1 tvg-id="DIRECTVSports.ar" tvg-name="DS Sports 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/DirecTV_Sports%2B_2018.png/revision/latest/scale-to-width-down/1000?cb=20200706230244&path-prefix=es" group-title="Deportes",DS Sports 1 HD
 http://38.224.231.176:8000/play/a08d/index.m3u8
 
 #EXTINF:-1 tvg-id="DIRECTVSports2.cl" tvg-name="DirecTV Sports Baja Calidad" group-title="Deportes",DirecTV Sports Baja Calidad
