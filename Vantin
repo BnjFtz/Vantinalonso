@@ -260,13 +260,13 @@ http://186.10.17.126:9990/play/a0l2/index.m3u8
 #EXTINF:-1 tvg-id="TLNovelas.cl" tvg-name="Telenovelas" tvg-logo="https://lh3.googleusercontent.com/pw/AP1GczMQNdpC9bBRh_OS1iLYWhb0DHGS1pmafsX23RDzHGV1L0NagapHvuRlYcnPRJ_K1vw1GcG0XDBm-pbFZYvDSkOe_VXdIxZooBcUjFKAjaUZ0Thku48=w1920-h1080" group-title="Novelas",Telenovelas
 http://45.236.151.86:3232/play/a1gk/index.m3u8
 
-#EXTINF:-1 tvg-id="A3sHD" tvg-name="A3s HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/AtreseriesLogo.jpg" group-title="Novelas",A3s HD
+#EXTINF:-1 tvg-id="A3SERIES.uy" tvg-name="A3s HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/AtreseriesLogo.jpg" group-title="Novelas",A3s HD
 http://redworld.pro:8880/wowgfchsht/3ddX8WLpR7Lf/135427
 
 #EXTINF:-1 tvg-id="LasEstrellas.cl" tvg-name="Canal De Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Novelas",Canal De Las Estrellas
 http://38.236.184.170:8000/play/a033/index.m3u8
 
-#EXTINF:-1 tvg-id="pasiones" tvg-name="Pasiones HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="Novelas",Pasiones HD
+#EXTINF:-1 tvg-id="PASIONES.uy" tvg-name="Pasiones HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="Novelas",Pasiones HD
 http://38.7.195.44:8000/play/a01k
 
 
@@ -326,16 +326,16 @@ http://38.224.231.47:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme.cl" tvg-name="HBO XTREME HD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png" group-title="Cine",HBO XTREME HD
 http://38.224.231.47:8000/play/a03y/index.m3u8
 
-#EXTINF:-1 tvg-id="Sony.cl" tvg-name="Sony HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Sony_Channel_Logo_2019.svg" group-title="Cine",Sony HD
+#EXTINF:-1 tvg-id="Sony.ar" tvg-name="Sony HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Sony_Channel_Logo_2019.svg" group-title="Cine",Sony HD
 http://38.224.231.47:8000/play/a04a/index.m3u8
 
-#EXTINF:-1 tvg-id="sony-movies" tvg-name="Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg" group-title="Cine",Sony Movies
+#EXTINF:-1 tvg-id="SONYMOVIES.uy" tvg-name="Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg" group-title="Cine",Sony Movies
 http://38.224.231.47:8000/play/a06h/index.m3u8
 
 #EXTINF:-1 tvg-id="Space.cl" tvg-name="Space HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/SpaceLogo.svg" group-title="Cine",Space HD
 http://38.224.231.47:8000/play/a04e/index.m3u8
 
-#EXTINF:-1 tvg-id="StudioUniversal.cl" tvg-name="Studio Universal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Universal_Pictures_logo.png" group-title="Cine",Studio Universal HD
+#EXTINF:-1 tvg-id="StudioUniversal.ar" tvg-name="Studio Universal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Universal_Pictures_logo.png" group-title="Cine",Studio Universal HD
 http://38.224.231.47:8000/play/a05y/index.m3u8
 
 #EXTINF:-1 tvg-id="TCM.cl" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/TCM_Latam_logo.png" group-title="Cine",TCM
@@ -383,10 +383,10 @@ http://190.95.60.228:12061/play/a367
 #EXTINF:-1 tvg-id="NickJr.cl" tvg-name="Nick Jr 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Nick_jr.png" group-title="Infantiles",Nick Jr 2
 http://38.7.195.44:8000/play/a009
 
-#EXTINF:-1 tvg-id="nickelodeon-hd" tvg-name="Nickelodeon HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Nick_2009-now_logo.png" group-title="Infantiles",Nickelodeon HD
+#EXTINF:-1 tvg-id="NICKELODEON.uy" tvg-name="Nickelodeon HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Nick_2009-now_logo.png" group-title="Infantiles",Nickelodeon HD
 http://190.108.93.71:8000/play/a0c3/index.m3u8
 
-#EXTINF:-1 tvg-id="nickelodeon-2" tvg-name="Nickelodeon 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Nick_2009-now_logo.png" group-title="Infantiles",Nickelodeon 2
+#EXTINF:-1 tvg-id="NICKELODEON.uy" tvg-name="Nickelodeon 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Nick_2009-now_logo.png" group-title="Infantiles",Nickelodeon 2
 http://38.224.231.176:8000/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-id="Tooncast.cl" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Tooncast.png" group-title="Infantiles",Tooncast
