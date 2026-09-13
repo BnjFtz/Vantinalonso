@@ -321,7 +321,7 @@ http://38.224.231.47:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="HBOPop.cl" tvg-name="HBO POP HD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/960px-HBO_Pop.svg.png" group-title="Cine",HBO POP HD
 http://38.224.231.47:8000/play/a03k/index.m3u8
 
-#EXTINF:-1 tvg-id="HBOPlus(Panamericano).ar" tvg-name="HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Cine",HBO Plus
+#EXTINF:-1 tvg-id="HBO.cl" tvg-name="HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Cine",HBO Plus
 http://38.224.231.47:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOSignature.cl" tvg-name="HBO Signature" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title="Cine",HBO Signature
@@ -330,10 +330,10 @@ http://38.224.231.47:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme.cl" tvg-name="HBO XTREME HD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png" group-title="Cine",HBO XTREME HD
 http://38.224.231.47:8000/play/a03y/index.m3u8
 
-#EXTINF:-1 tvg-id="Sony.ar" tvg-name="Sony HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Sony_Channel_Logo_2019.svg" group-title="Cine",Sony HD
+#EXTINF:-1 tvg-id="Sony.cl" tvg-name="Sony HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Sony_Channel_Logo_2019.svg" group-title="Cine",Sony HD
 http://38.224.231.47:8000/play/a04a/index.m3u8
 
-#EXTINF:-1 tvg-id="SONYMOVIES.uy" tvg-name="Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg" group-title="Cine",Sony Movies
+#EXTINF:-1 tvg-id="Sony.cl" tvg-name="Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg" group-title="Cine",Sony Movies
 http://38.224.231.47:8000/play/a06h/index.m3u8
 
 #EXTINF:-1 tvg-id="Space.cl" tvg-name="Space HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/SpaceLogo.svg" group-title="Cine",Space HD
