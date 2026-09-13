@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-epg.org/files/epg-cl.xml" x-tvg-url="https://iptv-epg.org/files/epg-cl.xml"
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-cl.xml" x-tvg-url="https://iptv-epg.org/files/epg-cl.xml" url-tvg="https://iptv-epg.org/files/epg-ar.xml" x-tvg-url="https://iptv-epg.org/files/epg-ar.xml"
 
 
 
@@ -71,22 +71,22 @@ http://superxlatino.com:8880/Freddy487564/UAJP6RdXkvdQ/430649
 
 ==================== TNT SPORTS ARGENTINA ====================
 
-#EXTINF:-1 tvg-id="TNTSports.cl" tvg-name="TNT Sports Argentina HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png" group-title="Deportes",TNT Sports Argentina HD 1
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports Argentina HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png" group-title="Deportes",TNT Sports Argentina HD 1
 http://138.121.113.176:9000/play/a0f4/index.m3u8
 
-#EXTINF:-1 tvg-id="TNTSports3.cl" tvg-name="TNT Sports Argentina HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png" group-title="Deportes",TNT Sports Argentina HD 2
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports Argentina HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png" group-title="Deportes",TNT Sports Argentina HD 2
 http://myultratv.com:8080/979094429tv/m94kej/460
 
-#EXTINF:-1 tvg-id="TNTSports3.cl" tvg-name="TNT Sports Argentina HD 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png" group-title="Deportes",TNT Sports Argentina HD 3
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports Argentina HD 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png" group-title="Deportes",TNT Sports Argentina HD 3
 http://myultratv.com:8080/979094429tv/m94kej/461
 
-#EXTINF:-1 tvg-id="TNTSports.cl" tvg-name="TNT Sports Argentina HD 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png" group-title="Deportes",TNT Sports Argentina 4
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports Argentina HD 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png" group-title="Deportes",TNT Sports Argentina 4
 http://149.18.45.189/live/R4ACU1NL/Q6BHT8UK/30362.ts
 
-#EXTINF:-1 tvg-id="TNTSports.cl" tvg-name="TNT Sports Argentina HD 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png" group-title="Deportes",TNT Sports Argentina 5
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports Argentina HD 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png" group-title="Deportes",TNT Sports Argentina 5
 http://myultratv.com:8080/Eduardodiaz/Eduardod1037/460
 
-#EXTINF:-1 tvg-id="TNTSports.cl" tvg-name="TNT Sports Argentina HD 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png" group-title="Deportes",TNT Sports Argentina 6
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports Argentina HD 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png" group-title="Deportes",TNT Sports Argentina 6
 http://138.59.227.20:8000/play/a06z/index.m3u8
 
 
