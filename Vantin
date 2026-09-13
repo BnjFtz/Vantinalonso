@@ -100,7 +100,7 @@ http://38.7.195.44:8000/play/a04h
 #EXTINF:-1 tvg-id="ESPN.cl" tvg-name="ESPN Chile SD" tvg-logo="https://pbs.twimg.com/profile_images/1251180683139198976/iaeYvn3A_400x400.png" group-title="Deportes",ESPN Chile SD
 http://23.137.84.107:59000/live/aarellano/aa112233/1080111.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.cl" tvg-name="ESPN HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN HD 2
+#EXTINF:-1 tvg-id="ESPN.cl" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN HD 2
 http://191.97.63.182:8888/play/a0df/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.cl" tvg-name="ESPN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN 2 HD
