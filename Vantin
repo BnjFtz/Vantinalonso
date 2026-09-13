@@ -1,4 +1,5 @@
-#EXTM3U url-tvg="https://iptv-epg.org/files/epg-cl.xml" x-tvg-url="https://iptv-epg.org/files/epg-cl.xml" url-tvg="https://iptv-epg.org/files/epg-ar.xml" x-tvg-url="https://iptv-epg.org/files/epg-ar.xml"
+#EXTM3U url-tvg="https://iptv-epg.org" x-tvg-url="https://iptv-epg.org"
+
 
 
 
