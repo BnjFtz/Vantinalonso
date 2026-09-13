@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-epg.org" x-tvg-url="https://iptv-epg.org"
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-kklicnqgkl.xml.gz" x-tvg-url="https://iptv-epg.org/files/epg-kklicnqgkl.xml.gz"
 
 
 
@@ -121,7 +121,7 @@ http://38.7.195.44:8000/play/a0ad
 #EXTINF:-1 tvg-id="ESPN7.cl" tvg-name="ESPN 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN 7 HD
 http://38.7.195.44:8000/play/a014
 
-#EXTINF:-1 tvg-id="espn-premium-hd" tvg-name="ESPN Premium HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN Premium HD
+#EXTINF:-1 tvg-id="espn-premium-hd" tvg-name="ESPN Premium Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN Premium HD
 http://38.7.195.44:8000/play/a04g
 
 
