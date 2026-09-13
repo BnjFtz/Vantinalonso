@@ -269,6 +269,10 @@ http://38.236.184.170:8000/play/a033/index.m3u8
 #EXTINF:-1 tvg-id="PASIONES.uy" tvg-name="Pasiones HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="Novelas",Pasiones HD
 http://38.7.195.44:8000/play/a01k
 
+#EXTINF:-1 tvg-id="TNTSeries.cl" tvg-name="TNT Novelas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Novelas",TNT Novelas HD
+http://38.224.231.47:8000/play/a038/index.m3u8
+
+
 
 
 
@@ -344,8 +348,6 @@ http://38.224.231.47:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="TNT.cl" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="Cine",TNT HD
 http://38.224.231.47:8000/play/a047/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT.cl" tvg-name="TNT Novelas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Cine",TNT Novelas HD
-http://38.224.231.47:8000/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSeries.cl" tvg-name="TNT Series HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="Cine",TNT Series HD
 http://38.224.231.47:8000/play/a034/index.m3u8
