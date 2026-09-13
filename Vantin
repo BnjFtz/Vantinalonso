@@ -317,7 +317,7 @@ http://38.224.231.47:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="HBOPop.cl" tvg-name="HBO POP HD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/960px-HBO_Pop.svg.png" group-title="Cine",HBO POP HD
 http://38.224.231.47:8000/play/a03k/index.m3u8
 
-#EXTINF:-1 tvg-id="HBOPlusPanregional.cl" tvg-name="HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Cine",HBO Plus
+#EXTINF:-1 tvg-id="HBOPlusEste.cl" tvg-name="HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Cine",HBO Plus
 http://38.224.231.47:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOSignature.cl" tvg-name="HBO Signature" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title="Cine",HBO Signature
