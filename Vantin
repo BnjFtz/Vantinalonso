@@ -407,7 +407,7 @@ https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
 http://38.224.231.47:8000/play/a02e/index.m3u8
 
 #EXTINF:-1 tvg-id="Tooncast.cl" tvg-name="Tooncast SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/tooncast-lam.png" tvg-country="CL" tvg-language="spa" group-title="Infantiles",Tooncast SD
-http://45.166.73.251:4000/play/a03z/index.m3u8
+http://38.224.231.176:8000/play/a0c7/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork.cl" tvg-name="Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Cartoon_Network_logo_%282004-2010%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" tvg-country="CL" tvg-language="spa" group-title="Infantiles",Cartoon Network HD
 http://38.224.231.47:8000/play/a06c/index.m3u8
