@@ -24,7 +24,7 @@ http://179.1.158.52:8000/play/a09t/index.m3u8
 http://170.247.204.9:8000/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSportsPremium.cl" tvg-name="TNT Sports Premium Chile HD 5" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Premium Chile HD 5
-http://38.236.184.170:8000/play/a02t/index.m3u8
+http://209.14.108.45:8000/play/a0fx
 
 #EXTINF:-1 tvg-id="TNTSportsPremium.cl" tvg-name="TNT Sports Premium Chile HD 6" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Premium Chile HD 6
 http://38.224.231.47:8000/play/a03i/index.m3u8
@@ -261,7 +261,7 @@ http://45.236.151.86:3232/play/a1gk/index.m3u8
 http://redworld.pro:8880/wowgfchsht/3ddX8WLpR7Lf/135427
 
 #EXTINF:-1 tvg-id="LasEstrellas.cl" tvg-name="Canal De Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Novelas",Canal De Las Estrellas
-http://38.236.184.170:8000/play/a033/index.m3u8
+http://186.33.57.68:9000/play/a09z/index.m3u8
 
 #EXTINF:-1 tvg-id="PASIONES.uy" tvg-name="Pasiones HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="Novelas",Pasiones HD
 http://38.7.195.44:8000/play/a01k
