@@ -175,7 +175,7 @@ http://177.53.153.207:8000/play/a001/index.m3u8
 
 ==================== MOVISTAR ====================
 #EXTINF:-1 tvg-id="movistar-deportes" tvg-name="Movistar Deportes" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="Deportes",Movistar Deportes
-http://38.236.184.170:8000/play/a04d/index.m3u8
+http://190.95.60.228:12061/play/a35n
 
 
 
@@ -203,9 +203,6 @@ https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
 #EXTINF:-1 tvg-id="13festival-cl" tvg-name="13 Festival (1080p)" tvg-logo="https://www.m3u.cl/logo/457_Canal_13.png" group-title="Nacionales (CHILE)",13 Festival (1080p)
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
-
-#EXTINF:-1 tvg-id="13realities-cl" tvg-name="13 Realities (1080p)" tvg-logo="https://www.m3u.cl/logo/457_Canal_13.png" group-title="Nacionales (CHILE)",13 Realities (1080p)
-https://dai.google.com/linear/hls/pa/event/g7_JOM0ORki9SR5RKHe-Kw/stream/4ae88fba-36ef-4ca0-b3fc-6862e9ccce12:SCL2/master.m3u8
 
 #EXTINF:-1 tvg-id="13teleseries-cl" tvg-name="13 Teleseries (720p)" tvg-logo="https://www.m3u.cl/logo/457_Canal_13.png" group-title="Nacionales (CHILE)",13 Teleseries (720p)
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
@@ -392,7 +389,7 @@ http://190.108.93.71:8000/play/a0c3/index.m3u8
 http://38.224.231.176:8000/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-id="Tooncast.cl" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Tooncast.png" group-title="Infantiles",Tooncast
-http://38.236.184.170:8000/play/a069/index.m3u8
+http://38.52.208.106:8000/play/a03p/index.m3u8
 
 #EXTINF:-1 tvg-id="Tooncast.cl" tvg-name="Tooncast 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Tooncast.png" group-title="Infantiles",Tooncast 2
 http://45.166.73.251:4000/play/a03z/index.m3u8
@@ -418,11 +415,12 @@ http://38.224.231.47:8000/play/a06c/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.cl" tvg-name="Cartoon Network HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Cartoon_Network_logo_%282004-2010%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" tvg-country="CL" tvg-language="spa" group-title="Infantiles",Cartoon Network HD 2
 http://170.247.204.9:8000/play/a0cs/index.m3u8
 
-#EXTINF:-1 tvg-id="xtrema-cartoons" tvg-name="Xtrema Cartoons" tvg-logo="https://i.imgur.com/X2d8y4e.png" tvg-country="AR" tvg-language="spa" group-title="Infantiles",Xtrema Cartoons
-https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
-
 #EXTINF:-1 tvg-id="plim-plim-tv" tvg-name="Plim Plim TV" tvg-logo="https://www.pngegg.com/es/png-voezc" group-title="Infantiles",Plim Plim TV
 http://38.7.195.44:8000/play/a0ej
 
 #EXTINF:-1 tvg-id="babyfirst" tvg-name="Baby First" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/BabyFirst_Logo.png" group-title="Infantiles",Baby First
 http://38.7.195.44:8000/play/a06f
+
+#EXTINF:-1 tvg-id="doskids" tvg-name="Dos Kids" tvg-logo="https://www.multicontenidos.net/canales/dos-kids" group-title="Infantiles",Dos Kids
+http://45.181.120.147:9800/play/040/index.m3u8
+
