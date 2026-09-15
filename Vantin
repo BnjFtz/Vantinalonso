@@ -15,7 +15,7 @@ http://177.53.152.117:8000/play/a08e/index.m3u8
 http://38.7.195.44:8000/play/a077
 
 #EXTINF:-1 tvg-id="TNTSportsPremium.cl" tvg-name="TNT Sports Premium Chile HD 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Premium Chile HD 2
-http://190.60.44.98:9000/play/a0x5/index.m3u8
+http://38.224.22.255:8000/play/a0bf/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSportsPremium.cl" tvg-name="TNT Sports Premium Chile HD 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Premium Chile HD 3
 http://179.1.158.52:8000/play/a09t/index.m3u8
