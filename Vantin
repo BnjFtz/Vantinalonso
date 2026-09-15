@@ -129,7 +129,7 @@ http://38.7.195.44:8000/play/a04g
 
 ==================== CLARO SPORTS ====================
 #EXTINF:-1 tvg-id="claro-sports-hd" tvg-name="Claro Sports HD" tvg-logo="https://play-lh.googleusercontent.com/_bNoeq0WpjUgDzOgvFYqQkGT5Cqo6ivOyTvAWQt1OOGeG099e210P8hlVMlmQJOSDlFrTAEQgz6LTbGYWqnj=w240-h480-rw" group-title="Deportes",Claro Sports HD
-http://190.61.40.18:5585/play/a0g0/index.m3u8
+http://38.224.22.255:8000/play/a05c/index.m3u8
 
 #EXTINF:-1 tvg-id="claro-sports-hd" tvg-name="Claro Sports HD op 2" tvg-logo="https://play-lh.googleusercontent.com/_bNoeq0WpjUgDzOgvFYqQkGT5Cqo6ivOyTvAWQt1OOGeG099e210P8hlVMlmQJOSDlFrTAEQgz6LTbGYWqnj=w240-h480-rw" group-title="Deportes",Claro Sports HD op 2
 http://38.224.231.176:8000/play/a09h/index.m3u8
